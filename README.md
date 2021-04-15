@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bo Kaung
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security to attempt OSCP
+- 🌱 Love doing security research.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bayin@tutanota.com
 
